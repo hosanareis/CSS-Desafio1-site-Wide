@@ -15,7 +15,7 @@ A página apresenta uma interface de apresentação de serviço, com menu de nav
 
 ### 💻 Versão Desktop:
 
-<img src="https://github.com/hosanareis/3.-CSS---Projeto1---We-Care/blob/main/print_PC.jpg?raw=true"/>
+<img src="https://github.com/hosanareis/CSS-Desafio1-site-Wide/blob/main/img/print%20-%20site%20Wide.jpg?raw=true"/>
 
 <br>
 <br>
@@ -23,5 +23,5 @@ A página apresenta uma interface de apresentação de serviço, com menu de nav
 
 ### 📱 Versão Mobile:
 
-<p align="center"> <img src="https://github.com/hosanareis/3.-CSS---Projeto1---We-Care/blob/main/print_Mobile.jpg?raw=true"/> </p>
+<p align="center"> <img src="https://github.com/hosanareis/CSS-Desafio1-site-Wide/blob/main/img/print%20-%20Mobile.jpg?raw=true"/> </p>
 
